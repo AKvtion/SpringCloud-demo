@@ -1,7 +1,5 @@
 # Nacos安装指南
 
-
-
 # 1.Windows安装
 
 开发阶段采用单机安装即可。
@@ -88,8 +86,6 @@ Nacos的默认端口是8848，如果你电脑上的其它进程占用了8848端�
 
 
 
-
-
 # 2.Linux安装
 
 Linux或者Mac安装方式与Windows类似。
@@ -130,9 +126,6 @@ source /etc/profile
 ```
 
 
-
-
-
 ## 2.2.上传安装包
 
 如图：
@@ -146,7 +139,6 @@ source /etc/profile
 上传到Linux服务器的某个目录，例如`/usr/local/src`目录下：
 
 ![image-20210402163715580](assets/image-20210402163715580.png)
-
 
 
 ## 2.3.解压
@@ -176,7 +168,6 @@ rm -rf nacos-server-1.4.1.tar.gz
 ## 2.4.端口配置
 
 与windows中类似
-
 
 
 ## 2.5.启动
